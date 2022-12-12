@@ -16,7 +16,7 @@
     "typescript": "^3.9.2"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql-yoga": "^1.18.3",
     "tsc-watch": "^4.2.5"
   }
